@@ -1,5 +1,3 @@
-# This program will count the sum of the digits from a given input string digits.
-
 # Function
 def digits(string):
     sum = 0

@@ -1,6 +1,3 @@
-# This program will display the numbers from 1 to a given number
-# that is aligned to the left. (Nested while loop)
-
 # Function
 def left_aligned_numbers(n):
     i = 1
