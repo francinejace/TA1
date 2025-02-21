@@ -33,20 +33,9 @@
   <ol>
     <li>
       <a href="#overview">Overview</a>
-      <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
-          <a href="#technology">Technology</a>
-        </li>
-      </ol>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
-    </li>
-    <li>
-      <a href="#resources">Resources</a>
+      <a href="#technology">Technology</a>
     </li>
   </ol>
 </details>
@@ -63,7 +52,7 @@ Description of the project in details.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
-![Python] (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ```
 TA-1
